@@ -1,6 +1,8 @@
-A repository for publishing the code (Python) and data used in my dissertation research. 
+A repository for publishing the data and (Python) code used in my dissertation research. 
 
-Currently contains miscellaneous older work. Eventually will
-contain expository notebooks showing the full workflow for reproducing all computational tasks in the dissertation: from *data acquisition* (web-scraping, scanned documents), to *data cleaning/wrangling* (text-processing, work with dataframes), to *data analysis/visualization*
+Currently only contains some related pre-dissertation work, as placeholder examples. Eventually will contain similar expository notebooks showing the workflow to reproduce all computational tasks in the dissertation: 
+1. **data acquisition** (web-scraping, digitizing scanned documents)
+2. **data cleaning/wrangling** (text-processing, work with dataframes)
+3. **data visualization and analysis** (causal modeling, statistical inference)
 
 
